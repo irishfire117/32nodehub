@@ -3,9 +3,6 @@
 Finite-difference solver for a one-dimensional rod with internal heat generation,
 solved as a tridiagonal matrix system with Gauss–Seidel iteration.
 
-ME452 Heat Transfer — 70-pt problem. C++17, no dependencies beyond the standard
-library.
-
 ## The problem
 
 A rod of unit length (0 <= x <= 1) in steady state:
